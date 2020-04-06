@@ -70,6 +70,9 @@ public class MyFirstApp {
 - `javac MyFirstApp.java` — компиляция java-файла
 - `java MyFirstApp` — запуск программы
 
+Для того, что бы русский текст корректно отображался в консоли, программы необходимо компилировать с помощью специального ключа:
+- `javac -encoding utf8 имя_класса.java`
+
 **Материалы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
@@ -117,6 +120,7 @@ public class MyFirstApp {
 - Запишите следующие условия с помощью языка Java
 - Используйте переменные и условные операторы
 - Выведите сообщения на консоль
+- Попробуйте применить оператор ! [(логическое НЕ)](http://developer.alexanderklimov.ru/android/java/logic_operators.php)
 
 ``` java
 ЕСЛИ(вашВозраст > 20) {
