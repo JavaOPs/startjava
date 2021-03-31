@@ -22,10 +22,9 @@
   - [Переменные: примитивные типы данных](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-6-переменные-примитивные-типы-данных)
   - [Ветвление: if, if else](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-7-ветвление-if-if-else)
   - [Циклы: for, while, do while](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-8-циклы-for-while-do-while)
-  - [Система управления версиями Git](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-9-система-управления-версиями-git)
-  - [Настройка локального репозитория](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#10-настройка-локального-репозитория)
-  - [Домашнее задание](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-11-домашнее-задание)
-  - [Советы для тех, кто выполняет домашнее задание](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#12-советы-для-тех-кто-выполняет-домашнее-задание)
+  - [Система управления версиями Git](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-9-система-управления-версиями-git)  
+  - [Домашнее задание](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-10-домашнее-задание)
+  - [Советы по выполнению домашнего задания](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#11-советы-по-выполнению-домашнего-задания)
   
 - **Занятие второе**
   - Разбор домашнего задания
