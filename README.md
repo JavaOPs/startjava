@@ -60,7 +60,7 @@
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
  - [Pro Git](https://git-scm.com/book/ru/v2)
- - [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
+ - [Объектно-ориентированный подход. Мэтт Вайсфельд](https://www.ozon.ru/product/obektno-orientirovannyy-podhod-vaysfeld-mett-vaysfeld-mett-211432428)
  - [Java Programming for Kids (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
  - [Книга для детей: Яша учится программировать](https://drive.google.com/file/d/1ukTlzMrFX3Zj8X9TXp6U-mJUH1fOKUED/view?usp=sharing)
  
