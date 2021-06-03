@@ -201,7 +201,7 @@ public class MyFirstApp {
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 10. <a name="10">[Домашнее задание](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 
-> Перед отправкой домашнего задания на проверку обращайте внимание на [`Советы по выполнению домашнего задания`](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11), которые содержат ряд полезных подсказок и разъяснений
+> Перед отправкой домашнего задания на проверку обращайте внимание на [`Советы по выполнению домашнего задания`](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#11-советы-по-выполнению-домашнего-задания), которые содержат ряд полезных подсказок и разъяснений
 - Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
 - Дополнительные книги:
