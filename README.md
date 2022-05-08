@@ -26,7 +26,7 @@
   - [Система управления версиями Git](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-9-система-управления-версиями-git)  
   - [Домашнее задание](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-10-домашнее-задание)
   - [Опросник](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#11)
-  - [Советы по выполнению домашнего задания](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#12)
+  - [Общие рекомендации по выполнению ДЗ](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#12)
   
 - **Занятие второе**
   - Разбор домашнего задания
