@@ -24,7 +24,7 @@
   - [Ветвление: if, if else](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-7-ветвление-if-if-else)
   - [Циклы: for, while, do while](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-8-циклы-for-while-do-while)
   - [Система управления версиями Git](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-9-система-управления-версиями-git)  
-  - [Домашнее задание](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-10-домашнее-задание)
+  - [Итоговые домашние задания](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#10)
   - [Опросник](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#11)
   - [Общие рекомендации по выполнению ДЗ](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#12)
   
@@ -34,7 +34,8 @@
   - Что такое класс
   - Что такое объект
   - Инкапсуляция: геттеры/сеттеры
-  - Домашнее задание
+  - Итоговые домашние задания
+  - Опросники
   
 - **Занятие третье**
   - Разбор домашнего задания
@@ -42,15 +43,19 @@
   - Компиляция Java-программ. Часть II
   - .gitignore
   - Домашнее задание
+  - Опросники
+  - Советы по выполнению домашнего задания
   
 - **Занятие четвертое**
   - Разбор домашнего задания
-  - Среда разработки — IntelliJ IDEA
-  - Массивы. Цикл for each
+  - Среда разработки IntelliJ IDEA
+  - Массивы. Цикл foreach
   - Задачки на массивы
   - Сортировка массива методом пузырька
   - Класс java.util.Arrays
-  - Домашнее задание
+  - Итоговые домашние задания
+  - Выпускной проект
+  - Опросники
   - Бонусные видео
   
 - **Занятие пятое**
@@ -58,6 +63,7 @@
    - Реляционная СУБД PostgreSQL. Терминал psql
    - Введение в SQL
    - Домашнее задание
+   - Советы по выполнению домашнего задания
 
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
