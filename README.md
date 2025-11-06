@@ -115,4 +115,5 @@
  ## Контакты
  - Информация о курсах, процессе обучения, трудоустройстве: [topjava.ru](https://topjava.ru/)
  - Наша группа в [vk](https://vk.com/topjavaru)
- - Мой telegram: *ch1max*
+ - Мой telegram: [ch1max](https://t.me/ch1max)
+ - Мой tg-канал: [Top Java Journal](https://t.me/topjavaru)
