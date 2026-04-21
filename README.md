@@ -92,7 +92,7 @@
 - [Этапы компиляции и запуска](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#4-этапы-компиляции-и-запуска)
 - [Байт-код](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-5-байт-код)
 - [Переменные: примитивные типы данных](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-6-Переменные-примитивные-типы-данных)
-- [Ветвление: if, if-else](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-7-Ветвление-if-if-else)
+- [Ветвление: if-else](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-7-Ветвление-if-if-else)
 - [Циклы: for, while, do-while](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-8-Циклы-for-while-do-while)
 - [Система управления версиями Git](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#-9-Система-управления-версиями-git)
 - [Итоговые домашние задания](https://github.com/JavaOPs/startjava/blob/master/lesson%201.md#10)
