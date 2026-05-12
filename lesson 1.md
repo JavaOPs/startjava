@@ -33,9 +33,7 @@
 **Дополнительные источники:**
 - [История возникновения Java](https://topjava.ru/blog/zabytaya-istoriya-java-glazami-patrika-notona)
 - [Знакомство с языком Java](https://www.youtube.com/live/QGHGR0xEcFA?si=xW98gPEVGZX_UrG5) (youtube)
-- [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
-- [Что такое JRE? Введение в среду выполнения Java](https://topjava.ru/blog/what-is-the-jre)
-- [Что такое JVM? Знакомство с виртуальной машиной Java](https://topjava.ru/blog/what-is-the-jvm)
+- [Что такое JDK, JRE и JVM](https://topjava.ru/blog/chto-takoe-jdk-jre-jvm)
 - Отчеты о популярности Java-технологий:
   - [Java в 2025 году](https://habr.com/ru/companies/spring_aio/articles/933180/)
   - [State of Developer Ecosystem Report 2025](https://devecosystem-2025.jetbrains.com/ru)
